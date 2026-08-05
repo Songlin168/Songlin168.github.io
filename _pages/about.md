@@ -29,14 +29,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Candidate at Lancaster University. My research focuses on autonomous robotic systems operating in complex environments.
+I am a PhD researcher in Engineering at Lancaster University, specialising in autonomous robotics for challenging environments. My research lies at the intersection of robot perception, sensor fusion, localisation, SLAM and robust control, with applications to multi-UAV and UAV-UGV systems operating in GPS-denied and visually degraded environments.
 
-My research interests include:
+My work focuses on developing reliable multi-sensor localisation frameworks by integrating LiDAR, visual odometry, IMU and Ultra-Wideband (UWB) sensing, together with robust nonlinear control and autonomous navigation algorithms. I am interested in translating theoretical methods into real robotic systems through extensive simulation and field experiments.
 
-- Multi-Robot Systems
-- Swarm Robotics
-- Sensor Fusion
-- UAV Autonomy
-- Robotic Perception
-- Autonomous Navigation
-- Nuclear Robotics
+I received a First-Class BEng in System and Control Engineering from the University of Sheffield and an MPhil in Aerospace Engineering from Beihang University. My broader research interests include multi-robot systems, swarm robotics, autonomous navigation, motion planning and intelligent robotic systems for nuclear inspection and industrial applications.
+
+## Recent Research Interests
+
+- Multi-robot localisation and sensor fusion
+- Robust nonlinear control for UAVs and manipulators
+- Motion planning and autonomous navigation
+- Distributed robotic systems and swarm robotics
+- Robotics for nuclear decommissioning and other challenging environments
