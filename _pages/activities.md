@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+  .post-header {
+    display: none;
+  }
+</style>
+
 <div class="activities">
   <section class="mb-5">
     <h2 class="mb-4">Research Visits</h2>

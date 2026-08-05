@@ -8,21 +8,21 @@ research_visits:
     location: Taiwan
     date: Jan 29 – Feb 9, 2026
     year: 2026
-    image:
+    image: /assets/img/activities/thor-research-visit-2026.jpg
     alt: Research visit to the National Tsing Hua University Open Pool Reactor
 
   - institution: Nanyang Technological University
     location: Singapore
     date: June – July 2025
     year: 2025
-    image:
+    image: /assets/img/activities/ntu-research-visit-2025.jpg
     alt: Research visit to Nanyang Technological University
 
   - institution: IEEE RAS Summer School on Multi-Robot Systems
     location: Prague, Czech Republic
     date: July 29 – August 2, 2024
     year: 2024
-    image:
+    image: /assets/img/activities/ieee-ras-summer-school-2024.jpg
     alt: IEEE RAS Summer School on Multi-Robot Systems in Prague
 
 presentations:
