@@ -1,9 +1,9 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: >
-  PhD Candidate at Lancaster University<br>
+  PhD in multi-robot perception, control, and planning<br>
   <a href="mailto:s.ma7@lancaster.ac.uk">s.ma7@lancaster.ac.uk</a> ·
   <a href="https://www.linkedin.com/in/songlinma">LinkedIn</a>
 
@@ -12,8 +12,7 @@ profile:
   image: songlin_ma_profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Candidate</p>
-    <p>Lancaster University</p>
+    <p>PhD in multi-robot perception, control, and planning</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

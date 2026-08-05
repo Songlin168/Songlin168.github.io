@@ -1,6 +1,6 @@
 ---
 layout: page
-title: activities
+title: Activities
 permalink: /activities/
 description: Research visits, presentations, posters, demonstrations, and professional events.
 nav: true
