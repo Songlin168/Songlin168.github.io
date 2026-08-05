@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.png
+  image: songlin_ma_profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD Candidate</p>
