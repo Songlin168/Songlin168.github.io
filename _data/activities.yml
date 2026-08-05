@@ -1,0 +1,118 @@
+# Add research-visit images under assets/img/activities/ and presentation PDFs under assets/pdf/activities/.
+# Then set the corresponding image or pdf value below, for example:
+# image: /assets/img/activities/ntu-2025.jpg
+# pdf: /assets/pdf/activities/ukacc-2026.pdf
+
+research_visits:
+  - institution: National Tsing Hua University Open Pool Reactor (THOR)
+    location: Taiwan
+    date: Jan 29 – Feb 9, 2026
+    year: 2026
+    image:
+    alt: Research visit to the National Tsing Hua University Open Pool Reactor
+
+  - institution: Nanyang Technological University
+    location: Singapore
+    date: June – July 2025
+    year: 2025
+    image:
+    alt: Research visit to Nanyang Technological University
+
+  - institution: IEEE RAS Summer School on Multi-Robot Systems
+    location: Prague, Czech Republic
+    date: July 29 – August 2, 2024
+    year: 2024
+    image:
+    alt: IEEE RAS Summer School on Multi-Robot Systems in Prague
+
+presentations:
+  - title: 15th United Kingdom Automatic Control Council International Conference
+    type: Presentation and Poster
+    date: June 22, 2026
+    location: Newcastle, UK
+    year: 2026
+    pdf:
+
+  - title: NDA Decommissioning Research Seminar
+    type: Presentation and Session Chair
+    date: Mar 11 – 12, 2026
+    location: Leeds, UK
+    year: 2026
+    pdf:
+
+  - title: RAICo Showcase
+    type: Attendance
+    date: Jan 22, 2026
+    location: Workington, UK
+    year: 2026
+    pdf:
+
+  - title: GREEN CDT Winter School
+    type: Poster
+    date: Jan 5 – 9, 2026
+    location: York, UK
+    year: 2026
+    pdf:
+
+  - title: Knowledge Management Talk
+    type: Presentation
+    date: Nov 10, 2025
+    location: Online
+    year: 2025
+    pdf:
+
+  - title: WiN Global Conference
+    type: Demo
+    date: July 14 – 18, 2025
+    location: London, UK
+    year: 2025
+    pdf:
+
+  - title: Celebration of Science
+    type: Poster
+    date: April 2 – 3, 2025
+    location: Lancaster, UK
+    year: 2025
+    pdf:
+
+  - title: NDA Decommissioning Research Seminar
+    type: Poster
+    date: Feb 25 – 26, 2025
+    location: Leeds, UK
+    year: 2025
+    pdf:
+
+  - title: GREEN CDT Winter School
+    type: Poster
+    date: Jan 6 – 9, 2025
+    location: York, UK
+    year: 2025
+    pdf:
+
+  - title: RAICo Harnessing Robotics and AI for Challenging Environments
+    type: Attendance
+    date: May 21, 2024
+    location: Workington, UK
+    year: 2024
+    pdf:
+
+  - title: 14th United Kingdom Automatic Control Council International Conference
+    type: Presentation
+    date: April 10, 2024
+    location: Winchester, UK
+    year: 2024
+    pdf:
+
+  - title: NDA Group Academic and Industry Research Forum
+    type: Attendance
+    date: Feb 27 – 29, 2024
+    location: Sheffield, UK
+    year: 2024
+    pdf:
+
+  - title: GREEN CDT Winter School
+    type: Presentation
+    date: Jan 8 – 11, 2024
+    location: York, UK
+    year: 2024
+    pdf:
